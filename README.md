@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wadizaatour
 - 👀 I’m interested in web developmenet  
 - 🌱 I’m currently Working as a Lead frontend engnineer
-- 💞️ I’m looking to collaborate on frontend projects using Vue3, typeScipt
+- 💞️ I’m looking to collaborate on frontend projects using Vue3, typeScript
 - 📫 How to reach me :zaatourwadi1@gmail.com
 
 <!---
