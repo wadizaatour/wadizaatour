@@ -5,8 +5,10 @@
 - 📫 How to reach me :zaatourwadi1@gmail.com
 
 
-Check out my article regarding Vue 3 component eco system
+Check out my article regarding Vue 3 component eco system:
 https://dev.to/wadizaatour/vue-3-component-eco-system-4bmk
+More Articles: 
+https://dev.to/wadizaatour/semantic-versioning-53ni
 <!---
 wadizaatour/wadizaatour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
