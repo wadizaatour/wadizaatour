@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @wadizaatour
-- 👀 I’m interested in web developmenet  
-- 🌱 I’m currently Working as a Lead frontend engnineer
-- 💞️ I’m looking to collaborate on frontend projects using Vue3, typeScript
-- 📫 How to reach me :zaatourwadi1@gmail.com
+- 👀 I’m interested in frontend developement
+- 🌱 I’m currently Working as a Lead frontend engineer
+- 💞️ I’m looking to collaborate on frontend projects using Vue3 or React
+- 📫 How to reach me :wadizaatourbusiness@gmail.com
 
 
 Check out my article regarding Vue 3 component eco system:
