@@ -25,6 +25,14 @@ TechStach:
  - Asp.net
  - Microsoft Azure
 
+Tools:
+ - Visual studio code
+ - Figma
+ - Storybook
+ - Photoshop
+ - Adobe premiere
+ - Ableton
+
 Worked on both monolithic and Micro frontend architecture, where I take the lead to coach developers, write articles and share knowledge to make everyone from the team up-to-date.
 
 Helping team growth by organizing learning sessions, demo and responsible for the recruitment process from onboarding to offboarding.
