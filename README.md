@@ -22,7 +22,7 @@ https://dev.to/wadizaatour/javascript-and-variables-4i87](https://dev.to/wadizaa
 **More Articles**
 Check my react hooks article here: 
 
-[https://dev.to/wadizaatour/what-is-usestate-and-useeffect-in-react-3j19)
+https://dev.to/wadizaatour/what-is-usestate-and-useeffect-in-react-3j19
 
 Check out my article regarding Vue 3 component eco system:
 https://dev.to/wadizaatour/vue-3-component-eco-system-4bmk](https://dev.to/wadizaatour/vue-3-component-eco-system-4bmk
