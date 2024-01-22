@@ -14,9 +14,11 @@ My success records in frontend developerment has a resulted a massive impact on 
 **New Articles(2024)**
 
 Javascript programing paradigm: 
+
 https://dev.to/wadizaatour/programming-paradigms-in-javascript-56bm
 
 Javascript and variables: 
+
 https://dev.to/wadizaatour/javascript-and-variables-4i87](https://dev.to/wadizaatour/javascript-and-variables-4i87
 
 **More Articles**
@@ -26,12 +28,12 @@ Check my react hooks article here:
 https://dev.to/wadizaatour/what-is-usestate-and-useeffect-in-react-3j19
 
 Check out my article regarding Vue 3 component eco system:
+
 https://dev.to/wadizaatour/vue-3-component-eco-system-4bmk](https://dev.to/wadizaatour/vue-3-component-eco-system-4bmk
 
 Semnatic versioning to improve your software updates:
+
 https://dev.to/wadizaatour/semantic-versioning-53ni](https://dev.to/wadizaatour/semantic-versioning-53ni
-
-
 
 
 TechStach: 
