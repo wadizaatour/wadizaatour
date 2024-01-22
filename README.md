@@ -20,6 +20,7 @@ Javascript and variables:
 https://dev.to/wadizaatour/javascript-and-variables-4i87](https://dev.to/wadizaatour/javascript-and-variables-4i87
 
 **More Articles**
+
 Check my react hooks article here: 
 
 https://dev.to/wadizaatour/what-is-usestate-and-useeffect-in-react-3j19
