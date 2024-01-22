@@ -7,13 +7,13 @@
 New Articles(2024): 
 Javascript programing paradigm: Check out my article regarding Vue 3 component eco system:
 https://dev.to/wadizaatour/vue-3-component-eco-system-4bmk
+
 Javascript and variables: 
 https://dev.to/wadizaatour/javascript-and-variables-4i87
 
 More Articles(
 Check out my article regarding Vue 3 component eco system:
-https://dev.to/wadizaatour/vue-3-component-eco-system-4bmk
-: 
+https://dev.to/wadizaatour/vue-3-component-eco-system-4bmk 
 https://dev.to/wadizaatour/semantic-versioning-53ni
 <!---
 wadizaatour/wadizaatour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
