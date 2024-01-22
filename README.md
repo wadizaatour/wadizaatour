@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on frontend projects using Vue3 or React
 - 📫 How to reach me :wadizaatourbusiness@gmail.com
 
-New Articles(2024): 
+New Articles(2024):
+
 Javascript programing paradigm: Check out my article regarding Vue 3 component eco system:
 https://dev.to/wadizaatour/vue-3-component-eco-system-4bmk
 
