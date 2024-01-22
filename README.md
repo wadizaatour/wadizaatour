@@ -40,7 +40,7 @@ TechStach:
  - HTML
  - CSS
  - JS
- - React, VueJ
+ - React, Vue
  - Typescript
  - Vite
  - Asp.net
