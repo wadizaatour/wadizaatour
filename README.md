@@ -4,7 +4,9 @@
 - 🌱 I’m currently Working as a Lead frontend engineer
 - 💞️ I’m looking to collaborate on frontend projects using React or Vue 3
 - 📫 How to reach me :wadizaatourbusiness@gmail.com
-  
+
+You can buy me a coffee through this link: https://www.buymeacoffee.com/wadizaatour
+
 **More About me**
 
 A professional **Lead frontend engineer** with a commitment and experience of developing innovative and creative software solutions. 
