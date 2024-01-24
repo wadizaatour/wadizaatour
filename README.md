@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on frontend projects using React or Vue 3
 - 📫 How to reach me :wadizaatourbusiness@gmail.com
 
-
+___________________________________________________________________________
 
 **More About me**
 
@@ -46,7 +46,7 @@ Semnatic versioning to improve your software updates:
 
 https://dev.to/wadizaatour/semantic-versioning-53ni
 
-
+___________________________________________________________________________
 
 
  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/wadizaatour)
