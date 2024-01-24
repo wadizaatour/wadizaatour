@@ -13,12 +13,12 @@ A professional **Lead frontend engineer** with a commitment and experience of de
 I spent the past few years implementing strategies to migrate legacy web application to a modern stack. I am involved in all aspects from coding, scalability, performance, testing, API optimization, user experience as well as the developemnt experience.
 My success records in frontend developerment has a resulted a massive impact on the current orgranisation and I am open to a new challenges!
 
-TechStach:  HTML, CSS, JavaScript, Typescript, React, Vue, Azure DevOps
+**TechStach**:  HTML, CSS, JavaScript, Typescript, React, Vue, Azure DevOps
 
-Tools: Visual studio code, WebStorm, Visual Sutdio, Figma, Storybook, Photoshop, Adobe premiere, Ableton
+**Tools**: Visual studio code, WebStorm, Visual Sutdio, Figma, Storybook, Photoshop, Adobe premiere, Ableton
 
 
-Stackoverflow: https://stackoverflow.com/users/12058036/zaatour-wadi
+**Stackoverflow**: https://stackoverflow.com/users/12058036/zaatour-wadi
 
 **New Articles(2024)**
 
