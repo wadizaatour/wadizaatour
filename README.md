@@ -19,7 +19,7 @@ My success records in frontend developerment has a resulted a massive impact on 
 
 
 **Stackoverflow**: https://stackoverflow.com/users/12058036/zaatour-wadi
-
+___________________________________________________________________________
 **New Articles(2024)**
 
 Javascript programing paradigm: 
