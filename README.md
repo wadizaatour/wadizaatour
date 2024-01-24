@@ -20,6 +20,8 @@ You can support my articles by buying me a coffee through this link: https://www
 
 Javascript programing paradigm: 
 
+https://medium.com/@zaatourwadi1/paradigms-in-javascript-8c40a01bae96
+
 https://dev.to/wadizaatour/programming-paradigms-in-javascript-56bm
 
 Javascript and variables: 
