@@ -9,7 +9,7 @@ ___________________________________________________________________________
 
 **More About me**
 
-A professional **Lead frontend engineer** with a commitment and experience of developing innovative and creative software solutions. 
+A professional **Frontend engineer** with a commitment and experience of developing innovative and creative software solutions. 
 I spent the past few years implementing strategies to migrate legacy web application to a modern stack. I am involved in all aspects from coding, scalability, performance, testing, API optimization, user experience as well as the developemnt experience.
 My success records in frontend developerment has a resulted a massive impact on the current orgranisation and I am open to a new challenges!
 
