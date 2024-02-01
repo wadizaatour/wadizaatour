@@ -3,7 +3,7 @@
 - 👀 I’m interested in frontend developement
 - 🌱 I’m currently Working as a Lead frontend engineer
 - 💞️ I’m looking to collaborate on frontend projects using React or Vue 3
-- 📫 How to reach me :wadizaatourbusiness@gmail.com
+- 📫 How to reach me: wadizaatourbusiness@gmail.com
 
 ___________________________________________________________________________
 
