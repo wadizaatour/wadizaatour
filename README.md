@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wadizaatour" alt="wadizaatour" /></a> </p>
 
 - 👯 I’m looking to collaborate on coding projects
+  
 - 👨‍💻 All of my projects are available at [https://www.buymeacoffee.com/wadizaatour](https://www.buymeacoffee.com/wadizaatour)
 
 - 📝 I regularly write articles on [https://dev.to/wadizaatour](https://dev.to/wadizaatour)
