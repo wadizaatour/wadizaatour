@@ -5,6 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wadizaatour" alt="wadizaatour" /></a> </p>
 
 - 👯 I’m looking to collaborate on coding projects
+- Check my latest AI powered App with Nuxt JS 4 and Nuxt UI https://cm-agent.netlify.app/
 
 - 👨‍💻 All of my projects are available at [https://www.buymeacoffee.com/wadizaatour](https://www.buymeacoffee.com/wadizaatour)
 
