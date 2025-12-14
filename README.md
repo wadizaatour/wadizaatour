@@ -13,7 +13,7 @@
 
 - 💬 Ask me about frontend frameworks **react, vue, Html, CSS**
 
-- 📫 How to reach me **wadizaatourbusiness@gmail.com**
+- 📫 How to reach me **wadizaatourcontact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
