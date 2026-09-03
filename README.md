@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wadi Zaatour</h1>
 <h2 align="center">Visit my website <a href="https://wadizaatourportfolio.netlify.app/">Portfolio</a></h2>
-<h3 align="center">A passionate Frontend Engineer based in the Netherlands</h3>
+<h3 align="center">A passionate AI Software Engineer based in the Netherlands</h3>
  
 
 - 👯 I’m looking to collaborate on coding projects
