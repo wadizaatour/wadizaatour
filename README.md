@@ -3,13 +3,10 @@
  
 
 - 👯 I’m looking to collaborate on coding projects
-- Check my latest AI powered App with Nuxt JS 4 and Nuxt UI https://cm-agent.netlify.app/
 
 - 👨‍💻 All of my projects are available at [https://www.buymeacoffee.com/wadizaatour](https://www.buymeacoffee.com/wadizaatour)
 
 - 📝 I regularly write articles on [https://dev.to/wadizaatour](https://dev.to/wadizaatour)
-
-- 💬 Ask me about frontend frameworks **react, vue, Html, CSS**
 
 - 📫 How to reach me **wadizaatourcontact@gmail.com**
 
