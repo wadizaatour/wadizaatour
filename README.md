@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi, I'm Wadi Zaatour 👋
+<h1>👨‍💻 Hi, I'm Wadi Zaatour 👋</h1>
 
 ### AI Software Engineering Specialist · Lead Engineer · Product Builder
+
+🧠 AI × ML × Product Engineering · Turning complex ideas into useful experiences
 
 I design and build practical software solutions that connect **AI, modern web development, and thoughtful user experiences**.
 
@@ -18,6 +20,7 @@ I design and build practical software solutions that connect **AI, modern web de
 
 - 🇳🇱 Based in Utrecht, the Netherlands
 - 🤖 Focused on AI-powered applications and developer tools
+- 🧠 Exploring machine learning, generative AI, and intelligent automation
 - 🧩 Experienced in building clean, responsive frontend experiences
 - 🚀 Interested in turning ideas into useful, scalable products
 - 🤝 Open to collaborating on meaningful software and open-source projects
@@ -31,10 +34,71 @@ I design and build practical software solutions that connect **AI, modern web de
 
 </div>
 
+## 🤖 AI & machine learning
+
+I enjoy exploring the space where software engineering meets intelligent systems:
+
+| Area | What I like building and learning |
+| --- | --- |
+| 🧠 Generative AI | LLM-powered assistants, prompt design, structured outputs, and AI product experiences |
+| 🔎 RAG systems | Retrieval-augmented generation, embeddings, vector search, and grounded answers |
+| 🧩 Agentic workflows | Agents that plan tasks, use tools, call APIs, and keep humans in the loop |
+| 📊 Machine learning | Feature engineering, classification, churn prediction, model evaluation, and explainability |
+| 🛡️ Responsible AI | Reliable outputs, source grounding, privacy-aware design, and continuous evaluation |
+
+```mermaid
+flowchart LR
+    A[User goal] --> B[AI agent]
+    B --> C{Select action}
+    C --> D[Retrieve context]
+    C --> E[Use tools]
+    D --> F[Generate response]
+    E --> F
+    F --> G[Evaluate and improve]
+```
+
+## 🕹️ Developer power-up
+
+<div align="center">
+
+🧱 🧱 🧱 🧱 🧱 🧱 🧱
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻⬆️
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧱 🍄 🧱
+
+<br />
+
+🧠 &nbsp; 🤖 &nbsp; 🚀 &nbsp; ✨ &nbsp; 🏆
+
+<br />
+
+`Code → Learn → Build → Level up`
+
+</div>
+
+### 🧪 AI lab: a tiny agent loop
+
+```python
+goal = "turn a useful idea into a working product"
+context = retrieve_relevant_knowledge(goal)
+plan = ai_agent.plan(goal, context)
+result = ai_agent.use_tools(plan)
+answer = evaluate_and_refine(result)
+```
+
+> Every project is a new level: collect knowledge, solve the challenge, and ship the power-up.
+
 ## 🚀 Featured projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [reactQA](https://github.com/wadizaatour/reactQA) | A React-focused project exploring interactive question-and-answer experiences. | TypeScript · React |
+| [react-personal-app](https://github.com/wadizaatour/react-personal-app) | A modern personal landing-page template for presenting products and projects. | TypeScript · React |
 | [ResumeBuilder](https://github.com/wadizaatour/ResumeBuilder) | A web application for creating and presenting professional resumes. | JavaScript |
 | [TaskPilot](https://github.com/wadizaatour/TaskPilot) | A Vue-based productivity project for organising work and tasks. | Vue |
 | [wadiAi](https://github.com/wadizaatour/wadiAi) | An AI-oriented project exploring practical assistant experiences. | Vue |
@@ -49,6 +113,16 @@ Product-focused tooling  █████████████████░�
 Developer experience     ████████████████░░░░░  75%
 Open-source collaboration███████████████░░░░░░  70%
 ```
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<a href="https://github.com/wadizaatour?tab=repositories"><img src="https://img.shields.io/badge/View%20all%20repositories-181717?style=for-the-badge&logo=github" alt="View all repositories" /></a>
+<a href="https://github.com/wadizaatour?tab=stars"><img src="https://img.shields.io/badge/View%20starred%20projects-F1C40F?style=for-the-badge&logo=github&logoColor=181717" alt="View starred projects" /></a>
+<a href="https://github.com/wadizaatour?tab=overview"><img src="https://img.shields.io/badge/View%20profile%20overview-2EA44F?style=for-the-badge&logo=github" alt="View profile overview" /></a>
+
+</div>
 
 ## 💬 Let's connect
 
