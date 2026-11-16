@@ -61,7 +61,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="./assets/mario-ai-jump.gif" width="240" alt="Animated pixel-art developer jumping over blocks" />
+<img src="./mario-ai-jump.gif" width="240" alt="Animated pixel-art developer jumping over blocks" />
 
 <br />
 
