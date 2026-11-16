@@ -1,30 +1,61 @@
-<h1 align="center">Hi 👋, I'm Wadi Zaatour</h1>
-<h3 align="center">A passionate AI Software Engineer based in the Netherlands</h3>
- 
+<div align="center">
 
-- 👯 I’m looking to collaborate on coding projects
+# Hi, I'm Wadi Zaatour 👋
 
-- 👨‍💻 All of my projects are available at [https://www.buymeacoffee.com/wadizaatour](https://www.buymeacoffee.com/wadizaatour)
+### AI Software Engineering Specialist · Lead Engineer · Product Builder
 
-- 📝 I regularly write articles on [https://dev.to/wadizaatour](https://dev.to/wadizaatour)
+I design and build practical software solutions that connect **AI, modern web development, and thoughtful user experiences**.
 
-- 📫 How to reach me **wadizaatourcontact@gmail.com**
+<a href="https://github.com/wadizaatour"><img src="https://img.shields.io/badge/GitHub-wadizaatour-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/wadi-zaatour/"><img src="https://img.shields.io/badge/LinkedIn-Wadi%20Zaatour-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://cm-agent.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-AI%20Agent%20App-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/wadizaatour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wadizaatour" height="30" width="40" /></a>
-<a href="https://dev.to/wadizaatour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wadizaatour" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wadi-zaatour/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wadi-zaatour/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12058036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12058036" height="30" width="40" /></a>
-<a href="https://medium.com/@zaatourwadi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zaatourwadi1" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3>Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<br />
 
-<h3 align="left">Support:</h3>
+## 👨‍💻 About me
 
-<p><a href="https://www.buymeacoffee.com/wadizaatour"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wadizaatour" /></a></p><br><br>
-</br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wadizaatour&show_icons=true&locale=en&layout=compact" alt="wadizaatour" />
+- 🇳🇱 Based in Utrecht, the Netherlands
+- 🤖 Focused on AI-powered applications and developer tools
+- 🧩 Experienced in building clean, responsive frontend experiences
+- 🚀 Interested in turning ideas into useful, scalable products
+- 🤝 Open to collaborating on meaningful software and open-source projects
+- ✍️ I share technical ideas and experiments with the developer community
 
+## 🛠️ Technologies I work with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,vue,nuxt,html,css,nodejs,python,git,github&perline=11" alt="Technology icons" />
+
+</div>
+
+## 🚀 Featured projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [ResumeBuilder](https://github.com/wadizaatour/ResumeBuilder) | A web application for creating and presenting professional resumes. | JavaScript |
+| [TaskPilot](https://github.com/wadizaatour/TaskPilot) | A Vue-based productivity project for organising work and tasks. | Vue |
+| [wadiAi](https://github.com/wadizaatour/wadiAi) | An AI-oriented project exploring practical assistant experiences. | Vue |
+| [PorfolioApp](https://github.com/wadizaatour/PorfolioApp) | A personal portfolio website for showcasing work and skills. | JavaScript |
+
+## 🌱 What I'm exploring
+
+```text
+AI products              ███████████████████░░  90%
+Frontend engineering     ██████████████████░░░  85%
+Product-focused tooling  █████████████████░░░░  80%
+Developer experience     ████████████████░░░░░  75%
+Open-source collaboration███████████████░░░░░░  70%
+```
+
+## 💬 Let's connect
+
+If you are building an AI product, a useful web application, or an idea that deserves to become real, feel free to reach out or open a discussion.
+
+<div align="center">
+
+### Build something useful. Keep learning. Share what works. 🚀
+
+</div>
