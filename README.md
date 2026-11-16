@@ -61,23 +61,11 @@ flowchart LR
 
 <div align="center">
 
-🧱 🧱 🧱 🧱 🧱 🧱 🧱
+<img src="./assets/mario-ai-jump.gif" width="240" alt="Animated pixel-art developer jumping over blocks" />
 
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻⬆️
-
-<br />
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧱 🍄 🧱
-
-<br />
-
-🧠 &nbsp; 🤖 &nbsp; 🚀 &nbsp; ✨ &nbsp; 🏆
-
-<br />
-
-`Code → Learn → Build → Level up`
+`Collect knowledge → Build AI → Level up`
 
 </div>
 
@@ -96,9 +84,7 @@ answer = evaluate_and_refine(result)
 ## 🚀 Featured projects
 
 | Project | Description | Stack |
-| --- | --- | --- |
-| [reactQA](https://github.com/wadizaatour/reactQA) | A React-focused project exploring interactive question-and-answer experiences. | TypeScript · React |
-| [react-personal-app](https://github.com/wadizaatour/react-personal-app) | A modern personal landing-page template for presenting products and projects. | TypeScript · React |
+| --- | --- | --- | 
 | [ResumeBuilder](https://github.com/wadizaatour/ResumeBuilder) | A web application for creating and presenting professional resumes. | JavaScript |
 | [TaskPilot](https://github.com/wadizaatour/TaskPilot) | A Vue-based productivity project for organising work and tasks. | Vue |
 | [wadiAi](https://github.com/wadizaatour/wadiAi) | An AI-oriented project exploring practical assistant experiences. | Vue |
